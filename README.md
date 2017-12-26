@@ -7,6 +7,7 @@ Použití je velice jednoduché,
 program s administrátorskými právy,
 přesunete do programu NoAdmin_v1
 </Czech>
+</br>
 <English>
 Thank you for downloading the product by @ TomHorvath1607
 Use is very simple,
