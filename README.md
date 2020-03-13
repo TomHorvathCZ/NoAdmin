@@ -1,16 +1,28 @@
 # NoAdmin
-When the program needs administrator privileges, but you do not have ... Noadmin serves it
+<p align="center">
+<img src="https://img.icons8.com/color/96/000000/moderator-female.png"/>
+</p>
 
-<Czech>
-Děkujeme za stažení produktu, by @TomHorvath1607 </br>
-Použití je velice jednoduché,
-program s administrátorskými právy,
-přesunete do programu NoAdmin_v1
-</Czech>
-</br>
-<English>
-Thank you for downloading the product by @ TomHorvath1607 </br>
+<p align="center">
+<b>Can bypass windows admin ?!</b>
+<br>
+<a href="https://github.com/BitesFor/NoAdmin">No more admin's</a> project
+</p>
+
+## Overview
+
+- [About](#about)
+- [How-to](#How-to)
+
+## About
+
+<p align="center">
+This tool will help you if you do not know the password of your admin password, simply an application that needs adminstrate permissions and drag and done! The application now runs without a password.
+<p>
+  
+## How-to
+
 Use is very simple,
 a program with admin rights,
 move to NoAdmin_v1
-</English>
+<br> now this program run without any admin password.
