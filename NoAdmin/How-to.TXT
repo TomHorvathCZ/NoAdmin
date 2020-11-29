@@ -1,10 +1,10 @@
 <Czech>
-Dìkujeme za staení produktu, na MadCrack
+DÄ›kujeme za staÅ¾enÃ­ produktu.
 ------------------------------------------
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-Pouití je velice jednoduché,
-program s administrátorskımi právy,
-pøesunete do programu NoAdmin_v1
+PouÅ¾itÃ­ je velice jednoduchÃ©,
+program s administrÃ¡torskÃ½mi prÃ¡vy,
+pÅ™esunete do programu NoAdmin_v1
 //////////////////////////////////////////
 ------------------------------------------
 <English>
